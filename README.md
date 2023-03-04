@@ -3,7 +3,7 @@ In this project I tried to find insights about the massive worldwide layoffs dur
 
 I have used this following dataset available on Kaggle for my work:https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
 
-The data cocnists of layoff detals since mid 2022, and consists of the following variables:
+The data cocnists of layoff detals since 2022, and consists of the following variables:
 
 Company: Name of the company
 
@@ -30,7 +30,7 @@ First I did some data cleaning and feature engineering like converting the dates
 After making sure that the data is ready to work with, I tried finding answers to some questions visually
 
 #Firstly what was the trend of layoffs based on months
-
+![Layoffs by month](https://github.com/UMajumder/2022-23_Layoffs_EDA/blob/main/PLOT_1.png?raw=true)
 #Then I checked the trend of layoffs by status, that is whether private or public sector employee
 
 #Which industry was affected the most
