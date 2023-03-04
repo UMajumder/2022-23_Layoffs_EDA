@@ -34,6 +34,7 @@ After making sure that the data is ready to work with, I tried finding answers t
 
 #Then I checked the trend of layoffs by status, that is whether private or public sector employee
 ![Layoffs by status](https://github.com/UMajumder/2022-23_Layoffs_EDA/blob/main/PLOT_2.png?raw=true)
-#Which industry was affected the most
 
+#Which industry was affected the most
+![Most affected industry](https://github.com/UMajumder/2022-23_Layoffs_EDA/blob/main/PLOT_3.png?raw=true)
 #Which were the top 15 companies in the Tech industry, which was clearly affected the most
