@@ -40,3 +40,5 @@ After making sure that the data is ready to work with, I tried finding answers t
 
 #Which were the top 15 companies in the Tech industry, which was clearly affected the most
 ![Top tech companies by layoffs](https://github.com/UMajumder/2022-23_Layoffs_EDA/blob/main/PLOT_4.png?raw=true)
+
+##END##
