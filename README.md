@@ -3,7 +3,7 @@ In this project I tried to find insights about the massive worldwide layoffs dur
 
 I have used this following dataset available on Kaggle for my work:https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
 
-The data cocnists of layoff detals since 2022, and consists of the following variables:
+The data consists of layoff detals since 2022, and consists of the following variables:
 
 Company: Name of the company
 
